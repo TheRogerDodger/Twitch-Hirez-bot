@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1492779892 source:c:\users\roger\desktop\twitch\main.cpp
+	<iostream>
+	<windows.h>
+	<string>
+	<fstream>
+

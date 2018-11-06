@@ -1,0 +1,843 @@
+<!DOCTYPE html><html lang="en" xml:lang="en" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns="http://www.w3.org/1999/xhtml" data-whatinput="initial" data-whatintent="initial" class=" whatinput-types-initial"><head><script src="https://pagead2.googlesyndication.com/pagead/osd.js"></script><script src="https://securepubads.g.doubleclick.net/gpt/pubads_impl_rendering_165.js"></script><script src="https://securepubads.g.doubleclick.net/gampad/ads?gdfp_req=1&amp;correlator=2284458909630464&amp;output=json_html&amp;callback=googletag.impl.pubads.callbackProxy1&amp;impl=fifs&amp;adsid=NT&amp;json_a=1&amp;eid=21061312%2C108809107%2C21061149&amp;sc=1&amp;sfv=1-0-13&amp;iu_parts=3576121%2Ctwitch%2Cdirectory&amp;enc_prev_ius=%2F0%2F1%2F2%2C%2F0%2F1%2F2&amp;prev_iu_szs=970x66%7C728x90%7C970x250%7C1x1%2C300x250%7C1x1&amp;cust_params=game%3DSmite%26pagetype%3Dgames%26campaign%3D%26kuid%3Dscm87dtkm%26server%3Dproduction%26salt%3Dtrue%26loggedin%3Dfalse&amp;cookie_enabled=1&amp;abxe=1&amp;lmt=1509958100&amp;dt=1509929300006&amp;frm=20&amp;biw=400&amp;bih=300&amp;oid=3&amp;adxs=0%2C0&amp;adys=0%2C0&amp;adks=3087285348%2C1181449864&amp;gut=v2&amp;ifi=1&amp;u_tz=-480&amp;u_his=1&amp;u_h=1080&amp;u_w=1920&amp;u_ah=1040&amp;u_aw=1920&amp;u_cd=32&amp;u_sd=1&amp;flash=0&amp;url=https%3A%2F%2Fwww.twitch.tv%2Fdirectory%2Fgame%2FSmite&amp;dssz=35&amp;icsg=12629229568&amp;vrg=165&amp;vis=1&amp;ga_vid=1054807062.1509929299&amp;ga_sid=1509929299&amp;ga_hid=1931957678&amp;ga_fc=true"></script><script async="" src="//cdn.krxd.net/ctjs/controltag.js.8508be838d94dc9198a6fb9a854d3e47"></script><script type="text/javascript" async="" src="https://cdn.krxd.net/controltag?confid=JYk8LCsC"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/plugins/ga/inpage_linkid.js" id="undefined"></script><script src="https://rules.quantcount.com/rules-p-16uNVwiyGoWyg.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="//c.amazon-adsystem.com/aax2/apstag.js"></script><script type="text/javascript" async="" src="https://cdn.mxpnl.com/libs/mixpanel-2.2.min.js"></script>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+
+<meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+<meta content="app-id=460177396, app-argument=twitch://open" name="apple-itunes-app">
+<meta content="Twitch is the world's leading video platform and community for gamers. More than 45 million gamers gather every month on Twitch to broadcast, watch and chat about gaming. Twitch's video platform is the backbone of both live and on-demand distribution for the entire video game ecosystem. This includes game publishers, developers, media outlets, industry conventions and press conferences, casual gamers and gaming for charity events. Twitch also caters to the entire esports industry, spanning the top pro players, tournaments, leagues, talk shows and organizations. Learn more at https://twitch.tv." name="description">
+<link href="/favicon.ico" rel="shortcut icon" type="image/x-icon">
+<meta content="Twitch" property="og:site_name">
+<meta content="161273083968709" property="fb:app_id">
+<meta content="Twitch" property="og:title">
+<meta content="Twitch is the world's leading video platform and community for gamers." property="og:description">
+<meta content="//www-cdn.jtvnw.net/images/twitch_logo3.jpg" property="og:image">
+<meta content="https://www.twitch.tv/directory/game/Smite" property="og:url">
+<meta content="website" property="og:type">
+<meta content="@twitch" property="twitter:site">
+
+<script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script src="https://www.twitch.tv/site_options.js" type="text/javascript"></script>
+
+<script>
+  if (!window.btoa) {
+    window.location = 'http://help.twitch.tv/customer/portal/articles/2489984-supported-browser-versions';
+  }
+</script>
+
+<link href="//web-cdn.ttvnw.net/styles/application.css" media="screen" rel="stylesheet" type="text/css">
+<script>
+  window.INIT_BENCHMARK_TIMESTAMP = new Date().getTime();
+  window.TWITCH_SERVER_IS_PRODUCTION=true;
+  window.MOBILE_VERSION_AVAILABLE = false;
+  window.UPSELL_VERSION_AVAILABLE = false;
+</script>
+<script src="/assets/mobileRedirect-5d8df2504465e46617d2fd12d170bd2a.js" type="text/javascript"></script>
+<link href="www.twitch.tv" rel="preconnect">
+<link href="https://player.twitch.tv" rel="preconnect">
+<link href="web-cdn.ttvnw.net" rel="preconnect">
+<link href="https://www.googletagservices.com" rel="preconnect">
+<link href="https://cdn.mxpnl.com" rel="preconnect">
+<link href="https://partner.googleadservices.com" rel="preconnect">
+<link href="https://spade.twitch.tv" rel="preconnect">
+<link href="https://sb.scorecardresearch.com" rel="preconnect">
+<link href="https://cdn.krxd.net" rel="preconnect">
+<link crossorigin="anonymous" href="https://api.mixpanel.com" rel="preconnect">
+<link href="https://static-cdn.jtvnw.net" rel="preconnect">
+<link href="https://pubster.twitch.tv" rel="preconnect">
+<link href="https://client-event-reporter.twitch.tv" rel="preconnect">
+<link href="https://chatdepot.twitch.tv" rel="dns-prefetch">
+<link href="https://tmi.twitch.tv" rel="dns-prefetch">
+<link href="https://badges.twitch.tv" rel="dns-prefetch">
+<link href="https://api.twitch.tv" rel="dns-prefetch">
+
+<script src="//web-cdn.ttvnw.net/global.js" type="text/javascript"></script><style></style><iframe src="https://api.twitch.tv/crossdomain/receiver.html?v=2"></iframe>
+<script src="//web-cdn.ttvnw.net/benchmark.js" type="text/javascript"></script>
+<meta content="!" name="fragment">
+
+<script type="text/javascript">
+//<![CDATA[
+
+  (function () {
+  'use strict';
+
+  // normalization has to be the same as in lib/translations.rb
+  // and in script/translations/update_translations
+  var WHITESPACE_REGEX = /(\s\n)+/g;
+
+  var msgs = {};
+
+  window.i18n = function i18n(phrase) {
+    var normalizedPhrase = phrase.replace(WHITESPACE_REGEX, ' ');
+    return msgs[normalizedPhrase] || normalizedPhrase;
+  };
+
+  window.availableLocales =
+  ["ar","bg","cs","da","de","el","en","en-gb","es","es-mx","fi","fr","hu","it","ja","ko","nl","no","pl","pt","pt-br","ru","sk","sv","th","tr","vi","zh-cn","zh-tw"];
+})();
+
+
+//]]>
+</script>
+<script>
+  window.ttPageProperties = null || {};
+  window.SitePageType = null;
+</script>
+
+<script src="/assets/emberhelper-4674cf177d55f8a9cc492ee96ef3cdf0.js" type="text/javascript"></script>
+<script src="//web-cdn.ttvnw.net/emberapp.js" type="text/javascript"></script><link rel="preload" href="https://adservice.google.com/adsid/integrator.js?domain=www.twitch.tv"><script type="text/javascript" src="https://adservice.google.com/adsid/integrator.js?domain=www.twitch.tv"></script><script src="https://securepubads.g.doubleclick.net/gpt/pubads_impl_165.js" async=""></script><iframe src="https://tpc.googlesyndication.com/safeframe/1-0-13/html/container.html" style="visibility: hidden; display: none;"></iframe><link rel="prefetch" href="https://securepubads.g.doubleclick.net/static/3p_cookie.html">
+<script src="/tmilibs/tmi-v3.js" type="text/javascript"></script>
+<script src="//player.twitch.tv/js/embed-v0.js" type="text/javascript"></script>
+<script src="//player.twitch.tv/js/player.js" type="text/javascript"></script>
+<script src="//web-cdn.ttvnw.net/translations/en-us.js" type="text/javascript"></script>
+<link href="//player.twitch.tv/css/player.css" media="screen" rel="stylesheet" type="text/css">
+<script type="text/javascript">
+//<![CDATA[
+
+  
+(function () {
+  window.i18nLocale = {
+    short: "en",
+    full: "en-us"
+  };
+})();
+
+//]]>
+</script>
+<meta name="ember-cli-head-start">
+<title>Smite - Watch Live Streams on Twitch</title>
+<meta content="nfsZd38ZV83T6MdjAsLhwdcQHPT3HkidcTELZkVxE3k" name="google-site-verification">
+<link href="https://plus.google.com/115463106831870703431" rel="publisher">
+
+  <link href="https://www.twitch.tv/directory/game/Smite" rel="canonical">
+
+<!---->
+<!----><meta name="ember-cli-head-end">
+<script async="" src="//polyfill.twitchsvc.net/v2/polyfill.min.js?features=default,URL,fetch,Array.prototype.find,Array.prototype.includes,Intl.~locale.en" type="text/javascript"></script><link href="//web-cdn.ttvnw.net/styles/twilight/core-62c7b717708dc942228e44f7b14caad0.css" rel="stylesheet" type="text/css"><script async="" src="//static.twitchcdn.net/config/settings.js" type="text/javascript"></script><script async="" src="//web-cdn.ttvnw.net/assets/twilight/manifest-f2d47db646b540a9d92f1273b4c69ae0.js" type="text/javascript"></script></head><body data-page="ember#ember" class="ember-application"><div id="languages_popup" style="display: none">
+<div class="dropmenu_toggled right stem" id="languages_stem">
+<a class="main" href="#" onclick="; return false;">Language</a>
+<button class="dropmenu_toggled_arrow piece close" id="languages_dropmenu_toggled_arrow"></button>
+</div>
+<div class="dropmenu site_header menu-like" id="header_language_dropmenu">
+<div class="dropmenu_links_container clearfix">
+<ul class="dropmenu_col dropmenu_left language_col left">
+<li><a href="javascript:void(0)" class="language" onclick="Twitch.language.setByAsyncPut('da'); Twitch.language.setCookieAndReload('da');"><span>Dansk</span></a></li>
+<li><a href="javascript:void(0)" class="language" onclick="Twitch.language.setByAsyncPut('de'); Twitch.language.setCookieAndReload('de');"><span>Deutsch</span></a></li>
+<li><a href="javascript:void(0)" class="language" onclick="Twitch.language.setByAsyncPut('en'); Twitch.language.setCookieAndReload('en');"><span>English</span></a></li>
+<li><a href="javascript:void(0)" class="language" onclick="Twitch.language.setByAsyncPut('en-gb'); Twitch.language.setCookieAndReload('en-gb');"><span>English - UK</span></a></li>
+<li><a href="javascript:void(0)" class="language" onclick="Twitch.language.setByAsyncPut('es'); Twitch.language.setCookieAndReload('es');"><span>Español - España</span></a></li>
+<li><a href="javascript:void(0)" class="language" onclick="Twitch.language.setByAsyncPut('es-mx'); Twitch.language.setCookieAndReload('es-mx');"><span>Español - Latinoamérica</span></a></li>
+<li><a href="javascript:void(0)" class="language" onclick="Twitch.language.setByAsyncPut('fr'); Twitch.language.setCookieAndReload('fr');"><span>Français</span></a></li>
+<li><a href="javascript:void(0)" class="language" onclick="Twitch.language.setByAsyncPut('it'); Twitch.language.setCookieAndReload('it');"><span>Italiano</span></a></li>
+<li><a href="javascript:void(0)" class="language" onclick="Twitch.language.setByAsyncPut('hu'); Twitch.language.setCookieAndReload('hu');"><span>Magyar</span></a></li>
+<li><a href="javascript:void(0)" class="language" onclick="Twitch.language.setByAsyncPut('nl'); Twitch.language.setCookieAndReload('nl');"><span>Nederlands</span></a></li>
+<li><a href="javascript:void(0)" class="language" onclick="Twitch.language.setByAsyncPut('no'); Twitch.language.setCookieAndReload('no');"><span>Norsk</span></a></li>
+<li><a href="javascript:void(0)" class="language" onclick="Twitch.language.setByAsyncPut('pl'); Twitch.language.setCookieAndReload('pl');"><span>Polski</span></a></li>
+<li><a href="javascript:void(0)" class="language" onclick="Twitch.language.setByAsyncPut('pt'); Twitch.language.setCookieAndReload('pt');"><span>Português</span></a></li>
+<li><a href="javascript:void(0)" class="language" onclick="Twitch.language.setByAsyncPut('pt-br'); Twitch.language.setCookieAndReload('pt-br');"><span>Português - Brasil</span></a></li>
+</ul>
+<ul class="dropmenu_col dropmenu_right language_col">
+<li><a href="javascript:void(0)" class="language" onclick="Twitch.language.setByAsyncPut('sk'); Twitch.language.setCookieAndReload('sk');"><span>Slovenčina</span></a></li>
+<li><a href="javascript:void(0)" class="language" onclick="Twitch.language.setByAsyncPut('fi'); Twitch.language.setCookieAndReload('fi');"><span>Suomi</span></a></li>
+<li><a href="javascript:void(0)" class="language" onclick="Twitch.language.setByAsyncPut('sv'); Twitch.language.setCookieAndReload('sv');"><span>Svenska</span></a></li>
+<li><a href="javascript:void(0)" class="language" onclick="Twitch.language.setByAsyncPut('vi'); Twitch.language.setCookieAndReload('vi');"><span>Tiếng Việt</span></a></li>
+<li><a href="javascript:void(0)" class="language" onclick="Twitch.language.setByAsyncPut('tr'); Twitch.language.setCookieAndReload('tr');"><span>Türkçe</span></a></li>
+<li><a href="javascript:void(0)" class="language" onclick="Twitch.language.setByAsyncPut('cs'); Twitch.language.setCookieAndReload('cs');"><span>Čeština</span></a></li>
+<li><a href="javascript:void(0)" class="language" onclick="Twitch.language.setByAsyncPut('el'); Twitch.language.setCookieAndReload('el');"><span>Ελληνικά</span></a></li>
+<li><a href="javascript:void(0)" class="language" onclick="Twitch.language.setByAsyncPut('bg'); Twitch.language.setCookieAndReload('bg');"><span>Български</span></a></li>
+<li><a href="javascript:void(0)" class="language" onclick="Twitch.language.setByAsyncPut('ru'); Twitch.language.setCookieAndReload('ru');"><span>Русский</span></a></li>
+<li><a href="javascript:void(0)" class="language" onclick="Twitch.language.setByAsyncPut('ar'); Twitch.language.setCookieAndReload('ar');"><span>العربية</span></a></li>
+<li><a href="javascript:void(0)" class="language" onclick="Twitch.language.setByAsyncPut('th'); Twitch.language.setCookieAndReload('th');"><span>ภาษาไทย</span></a></li>
+<li><a href="javascript:void(0)" class="language" onclick="Twitch.language.setByAsyncPut('zh-cn'); Twitch.language.setCookieAndReload('zh-cn');"><span>中文 简体</span></a></li>
+<li><a href="javascript:void(0)" class="language" onclick="Twitch.language.setByAsyncPut('zh-tw'); Twitch.language.setCookieAndReload('zh-tw');"><span>中文 繁體</span></a></li>
+<li><a href="javascript:void(0)" class="language" onclick="Twitch.language.setByAsyncPut('ja'); Twitch.language.setCookieAndReload('ja');"><span>日本語</span></a></li>
+<li><a href="javascript:void(0)" class="language" onclick="Twitch.language.setByAsyncPut('ko'); Twitch.language.setCookieAndReload('ko');"><span>한국어</span></a></li>
+</ul>
+</div>
+</div>
+</div>
+
+
+
+
+
+
+
+
+
+<div id="header_notification" style="display:none"></div>
+
+<script>
+  (function() {
+    var ga=document.createElement('script'); ga.type='text/javascript'; ga.async=true;
+    ga.src=('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s=document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga,s);
+  })();
+</script>
+
+<script>
+  Twitch.tracking.sendComscoreBeacon({"c1":2,"c2":6745306,"c3":1,"c5":"01"});
+</script>
+<noscript>
+&lt;img src='//b.scorecardresearch.com/p?c1=2&amp;amp;c2=6745306&amp;amp;c3=1&amp;amp;c5=01&amp;amp;cj=1'&gt;
+</noscript>
+<img border="0" class="amazon-adsystem-tracking-pixel" height="1" src="//s.amazon-adsystem.com/iui3?d=3p-hbg&amp;ex-src=twitch.tv&amp;ex-hargs=v%3D1.0%3Bc%3D8858214122683%3Bp%3De75425fb-5407-7bd5-fd20-f462e98a8777" style="display: none;" width="1">
+<script>
+  Twitch.geo.then(function (data) {
+    if (data.geo === "US") {
+      $('.amazon-adsystem-tracking-pixel').attr('src', '//s.amazon-adsystem.com/iui3?d=3p-hbg&ex-src=twitch.tv&ex-hargs=v%3D1.0%3Bc%3D8858214122683%3Bp%3De75425fb-5407-7bd5-fd20-f462e98a8777');
+    }
+  });
+</script>
+<script>
+  _qoptions = {qacct: "p-16uNVwiyGoWyg", labels: "gaming"};
+</script>
+<script async="" src="//edge.quantserve.com/quant.js" type="text/javascript"></script>
+<noscript>
+&lt;a href='//www.quantcast.com/p-16uNVwiyGoWyg' target='_blank'&gt;
+&lt;img alt='Quantcast' border='0' height='1' src='//pixel.quantserve.com/pixel/p-16uNVwiyGoWyg.gif' style='display: none;' width='1'&gt;
+&lt;/a&gt;
+</noscript>
+<script>
+  // For '/p' pages (non-ember pages), send german tracking beacons.
+  // Other Ember pages send their own tracking beacons.
+  if (typeof Ember !== "undefined" && window.location.pathname.match(/^\/p\//)) {
+    Twitch.tracking.sendGermanBeacons("pages");
+  }
+</script>
+<!-- BEGIN Krux Control Tag for "demo twitch" -->
+<!-- Source: /snippet/controltag?confid=JYk8LCsC&site=demo%20twitch&edit=1 -->
+<script class="kxct" data-id="JYk8LCsC" data-timing="async" data-version="1.9" type="text/javascript">
+Twitch.geo.then(function (data) {
+  var kruxCountries = {
+    'AT': 1, // Austria
+    'BE': 1, // Belgium
+    'BG': 1, // Bulgaria
+    'CY': 1, // Cyprus
+    'CZ': 1, // Czech Republic
+    'DE': 1, // Germany
+    'DK': 1, // Denmark
+    'EE': 1, // Estonia
+    'FI': 1, // Finland
+    'FR': 1, // France
+    'GR': 1, // Greece
+    'GL': 1, // Greenland
+    'HU': 1, // Hungary
+    'IS': 1, // Iceland
+    'IT': 1, // Italy
+    'LT': 1, // Lithuania
+    'LU': 1, // Luxembourg
+    'NL': 1, // Netherlands
+    'NO': 1, // Norway
+    'PL': 1, // Poland
+    'PT': 1, // Portugal
+    'RO': 1, // Romania
+    'RU': 1, // Russia
+    'SK': 1, // Slovakia
+    'SI': 1, // Slovenia
+    'ES': 1, // Spain
+    'SE': 1, // Sweden
+    'CH': 1, // Switzerland
+    'TR': 1, // Turkey
+    'LV': 1, // Latvia
+    'MT': 1, // Malta
+    'RS': 1, // Serbia
+    'AL': 1, // Albania
+    'AD': 1, // Andorra
+    'AM': 1, // Armenia
+    'AZ': 1, // Azerbaijan
+    'BY': 1, // Belarus
+    'BA': 1, // Bosnia & Herzegovina
+    'HR': 1, // Croatia
+    'GE': 1, // Georgia
+    'IL': 1, // Israel
+    'LI': 1, // Liechtenstein
+    'MK': 1, // Macedonia
+    'MD': 1, // Moldova
+    'MC': 1, // Monaco
+    'ME': 1, // Montenegro
+    'QA': 1, // Qatar
+    'SM': 1, // San Marino
+    'UA': 1, // Ukraine
+    'UK': 1, // United Kingdom
+    'GB': 1, // Great Britain
+    'IE': 1, // Ireland
+    'US': 1 // USA
+  };
+  if (kruxCountries[data.geo]) {
+    // Krux Control Tag
+    window.Krux||((Krux=function(){Krux.q.push(arguments)}).q=[]);
+    (function(){
+      var k=document.createElement('script');k.type='text/javascript';k.async=true;
+      var m,src=(m=location.href.match(/\bkxsrc=([^&]+)/))&&decodeURIComponent(m[1]);
+      k.src = /^https?:\/\/([a-z0-9_\-\.]+\.)?krxd\.net(:\d{1,5})?\//i.test(src) ? src : src === "disable" ? "" : (location.protocol==="https:"?"https:":"http:")+"//cdn.krxd.net/controltag?confid=JYk8LCsC";
+      var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(k,s);
+    }());
+    // Krux Interchange Snippet
+    window.Krux||((Krux=function(){Krux.q.push(arguments);}).q=[]);
+    (function(){
+      function retrieve(n){
+        var m, k='kx'+n;
+        if(window.localStorage){
+          return window.localStorage[k] || "";
+        } else if (navigator.cookieEnabled){
+          m = document.cookie.match(k+'=([^;]*)');
+          return (m && unescape(m[1])) || "";
+        } else {
+          return '';
+        }
+      }
+      Krux.user = retrieve('user');
+      Krux.segments = retrieve('segs') && retrieve('segs').split(',') || [];
+    })();
+  }
+});
+</script>
+<!-- END Krux Controltag -->
+
+
+<!-- NOTE: Any changes here might need to be made in chat.html.haml as well -->
+
+<script src="//web-cdn.ttvnw.net/sw.js" type="text/javascript"></script>
+<script src="//web-cdn.ttvnw.net/sw-registration.js" type="text/javascript"></script>
+<div id="flyout">
+<div class="point"></div>
+<div class="content"></div>
+</div>
+
+<div class="js-ember-loading-screen loading-screen" style="display: none;">
+<div class="twitch-logo"></div>
+</div>
+
+
+
+<div id="ember605" class="ember-view">    <div id="wormhole-overlays" style="display: block"><div id="ember795" class="ember-view"><!----></div></div>
+    <div id="ember617" class="ember-view"><!----></div>
+        <style>
+        .dynamic-player, .dynamic-player object, .dynamic-player video{
+          width :290px !important;
+          height:120px !important
+        }
+
+        .dynamic-target-player,
+        .dynamic-target-player object, .dynamic-target-player video {
+          width:290px !important;
+          height:21px !important;
+        }
+
+        .dynamic-player .player object, .dynamic-player .player video {
+          width:100% !important;
+          height:100% !important
+        }
+      </style>
+      <div class="app-main has-sc  has-sc--collapsed">
+        <div id="ember641" class="aspect__fill ember-view"><nav class="js-top-nav top-nav pos-fixed full-width top-0">
+  <ul class="top-nav__menu flex flex--nowrap flex--verticalCenter">
+    <li class="flex__item js-top-nav-logo top-nav__logo">
+<a data-tt_medium="twitch_topnav" data-tt_content="twitch_logo" href="/" id="ember645" class="inline-block ember-view">        <figure id="ember660" class="icon ember-view"><svg height="32px" version="1.1" viewBox="0 0 94 32" width="94px" x="0px" y="0px" class="svg-logo_twitch">
+  <path clip-rule="evenodd" d="M88,5h-6V0h-9l-6,5h-5.5L59,7.5V5h-5V0H36v5H16l-5-5H0v22l5,5.25L14,32h6v-1.5l3,1.5h12l2-3l1,3h7v-3l3,3h8l0.5-3l2.5,3h10l3-3v3h4l3-3v3h7l7-6V10L88,5z M13,13H8v6h5v6H6l-4-4V2h6v5h5V13z M36,21.5L32.5,25H15V7h6v12h2V7h6v12h2V7h5V21.5z M44,25h-6V7h6V25z M44,5h-6V2h6V5z M57,13h-5v6h5v6h-7l-4-4V2h6v5h5V13z M72,13h-7v6h7v6h-9l-4-4V11l4-4h9V13z M91,25h-6V13h-5v12h-6V2h6v5h7l4,4V25z" fill-rule="evenodd"></path>
+</svg>
+
+
+
+</figure>
+</a>    </li>
+    <li class="top-nav__nav-items-container">
+      <ul role="tablist" class="flex flex--nowrap top-nav__nav-items-list ">
+<!---->
+          <li role="presentation" class="flex__item">
+<a role="tab" data-tt_medium="twitch_topnav" data-tt_content="directory_games" title="Browse" href="/directory" id="ember687" class="top-nav__nav-link block ember-view">              Browse
+</a>          </li>
+
+          <li role="presentation" class="flex__item">
+            <a href="https://app.twitch.tv/download" data-tt_medium="twitch_topnav" data-tt_content="desktop" class="top-nav__nav-link block">
+              Get Desktop
+            </a>
+          </li>
+
+          <li id="ember700" role="presentation" class="flex__item ember-view">  <a href="https://twitch.amazon.com/prime?ref_=sm_w_tup_ntp_t_all&amp;redirectRoute=ZGlyZWN0b3J5L2dhbWUvU21pdGU=" target="_blank" rel="noopener" role="tab" class="top-nav__nav-link block">
+    Try Prime
+  </a>
+</li>
+
+<li id="ember707" class="js-top-nav-overflow top-nav__overflow flex__item balloon-wrapper ember-view"><button type="button" aria-label="More" id="ember712" class="button button--icon-only ember-view">              <figure id="ember713" class="icon ember-view"><svg height="18px" version="1.1" viewBox="0 0 18 18" width="18px" x="0px" y="0px" class="svg-nav_more">
+  <path clip-rule="evenodd" d="M13,11V7h4v4H13z M7,7h4v4H7V7z M1,7h4v4H1V7z" fill-rule="evenodd"></path>
+</svg>
+
+
+
+</figure>
+</button><div id="ember718" class="mg-l-2 balloon balloon--down balloon--undefined pd-x-1 hide ember-view"><ul class="balloon__list"><li id="ember725" class="ember-view">  <a href="/p/about" class="balloon__link " data-ember-action="" data-ember-action-726="726">
+                    About
+
+  </a>
+</li><li id="ember727" class="ember-view">  <a href="/p/ad-choices" class="balloon__link " data-ember-action="" data-ember-action-728="728">
+                    Ad Choices
+
+  </a>
+</li><li id="ember729" class="ember-view">  <a href="http://twitchadvertising.tv/" class="balloon__link " data-ember-action="" data-ember-action-730="730">
+                    Advertisers
+
+  </a>
+</li><li id="ember731" class="ember-view">  <a href="https://blog.twitch.tv" class="balloon__link " data-ember-action="" data-ember-action-732="732">
+                    Blog
+
+  </a>
+</li><li id="ember735" class="ember-view">  <a class="balloon__link " data-ember-action="" data-ember-action-736="736">
+                    Creative
+
+  </a>
+</li><li id="ember737" class="ember-view">  <a href="/p/cookie-policy" class="balloon__link " data-ember-action="" data-ember-action-738="738">
+                    Cookie Policy
+
+  </a>
+</li><li id="ember739" class="ember-view">  <a href="https://dev.twitch.tv" class="balloon__link " data-ember-action="" data-ember-action-740="740">
+                    Developers
+
+  </a>
+</li><li id="ember741" class="ember-view">  <a href="http://help.twitch.tv" class="balloon__link " data-ember-action="" data-ember-action-742="742">
+                    Help
+
+  </a>
+</li><li id="ember743" class="ember-view">  <a href="/jobs" class="balloon__link " data-ember-action="" data-ember-action-744="744">
+                    Jobs
+
+  </a>
+</li>              <li>
+                <div id="ember747" class="ember-view"><div class="balloon-wrapper">
+
+<!---->
+  <a href="#" class="js-language-select balloon__link" data-ember-action="" data-ember-action-748="748">Language</a>
+
+</div>
+</div>
+              </li>
+<li id="ember749" class="ember-view">  <a href="http://music.twitch.tv" class="balloon__link " data-ember-action="" data-ember-action-750="750">
+                    Music
+
+  </a>
+</li><li id="ember751" class="ember-view">  <a href="/p/partners" class="balloon__link " data-ember-action="" data-ember-action-752="752">
+                    Partners
+
+  </a>
+</li><li id="ember753" class="ember-view">  <a href="/p/press" class="balloon__link " data-ember-action="" data-ember-action-754="754">
+                    Press
+
+  </a>
+</li><li id="ember755" class="ember-view">  <a href="/p/privacy-policy" class="balloon__link " data-ember-action="" data-ember-action-756="756">
+                    Privacy Policy
+
+  </a>
+</li><li id="ember757" class="ember-view">  <a href="/store" class="balloon__link " data-ember-action="" data-ember-action-758="758">
+                      Store
+
+  </a>
+</li><li id="ember759" class="ember-view">  <a href="/p/terms-of-service" class="balloon__link " data-ember-action="" data-ember-action-760="760">
+                    Terms
+
+  </a>
+</li><li id="ember761" class="ember-view">  <a href="https://download.twitch.tv" class="balloon__link " data-ember-action="" data-ember-action-762="762">
+                    Get Twitch Desktop App
+
+  </a>
+</li></ul>
+</div>
+</li>
+          <li class="js-top-nav-search top-nav__search flex__item flex__item--grow ">
+            <div class="form__input-group form__input-group--icon-left">
+              <div id="ember769" class="flex__item--grow ember-view"><form action="" class="form  new-search ">
+
+  <div class="form__input-group form__input-group--icon-left ">
+    <input type="text" placeholder="Search" autocorrect="off" autocomplete="off" spellcheck="false" autocapitalize="off" aria-label="Search" class="new-search__input form__input focused">
+
+    <div class="form__icon-group">
+      <figure id="ember778" class="icon form__icon ember-view"><svg height="18px" version="1.1" viewBox="0 0 18 18" width="18px" x="0px" y="0px" class="svg-nav_search">
+  <path clip-rule="evenodd" d="M16.707,15.293l-1.414,1.414l-4.825-4.825C9.487,12.58,8.295,13,7,13c-3.313,0-6-2.687-6-6s2.687-6,6-6s6,2.687,6,6c0,1.295-0.42,2.487-1.118,3.468L16.707,15.293z M7,3C4.791,3,3,4.791,3,7s1.791,4,4,4s4-1.791,4-4S9.209,3,7,3z" fill-rule="evenodd"></path>
+</svg>
+
+
+
+</figure>
+    </div>
+
+
+
+<!---->  </div>
+</form>
+
+<div id="ember790" class="ember-view"></div></div>
+<!---->            </div>
+          </li>
+          <div id="ember798" style="display: none;" class="ember-view"><!----></div>
+          <li class="flex__item flex__item--grow">
+          </li>
+
+          <li class="top-nav__prime-anchor flex__item">
+            <div id="ember801" class="ember-view"><div id="ember962" class="balloon-wrapper ember-view"><div id="ember963" class="balloon--right prime-offers prime-offers__list prime-offers--offset balloon balloon--down balloon--undefined pd-0 hide ember-view"><ul class="balloon__list"><!----></ul>
+</div>
+<button type="button" id="ember964" class="top-nav__prime-link button ember-view">      <figure id="ember965" class="icon prime-logo-crown--white prime-logo-crown ember-view"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 13" class="svg-gp_crown">
+  <polygon points="15.7,5.8 10,0.1 4.3,5.8 0,1.5 0,12.9 20,12.9 20,1.5"></polygon>
+</svg>
+
+
+
+</figure>
+</button>      <div class="flex flex--horizontalCenter flex--verticalCenter pill pill--red prime-crown__new-offer-count">
+        <div class="flex__item cl-white">7</div>
+      </div>
+
+    <div class="balloon balloon--tooltip balloon--down balloon--center prime-offer-tooltip">
+        New Prime Loot
+    </div>
+    <div id="ember970" class="ember-view"></div>
+
+</div></div>
+          </li>
+
+            <li class="top-nav__login-links flex__item flex flex--nowrap">
+              <a id="header_login" href="/login" class="button" data-ember-action="" data-ember-action-828="828">Log In</a>
+
+              <a id="header_signup" href="/signup" class="button" data-ember-action="" data-ember-action-829="829">Sign Up</a>
+            </li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+</div>
+
+        <div class="app-body height-100 pos-relative">
+          <div id="main_col" class="expandLeft expandRight   column scroll"><div class="tse-scrollbar"><div class="drag-handle" style="top: 2px; height: 153px;"></div></div>
+            <a href="#" id="left_close" class="hidden " data-ember-action="" data-ember-action-830="830">
+              <span>Show/Hide</span>
+            </a>
+            <a id="right_close" class="hidden closed" data-ember-action="" data-ember-action-831="831"></a>
+            <div class="tse-scroll-content js-main-col-scroll-content " style="right: 0px; width: 350px; height: 250px;">
+              <div class="js-directory tse-content">
+                <!---->
+<div id="dfp-directory-banner" class="ad_leader" style="display: block;" data-google-query-id="CNjqhfzcqNcCFZeHfgod9AkHUA"><div id="google_ads_iframe_/3576121/twitch/directory_0__container__" style="border: 0pt none;"><iframe id="google_ads_iframe_/3576121/twitch/directory_0" title="3rd party ad content" name="google_ads_iframe_/3576121/twitch/directory_0" width="970" height="66" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" srcdoc="" style="border: 0px; vertical-align: bottom;"></iframe></div></div>
+<div id="directory-list" class="no-boxart pd-y-2 pd-x-3 full-height full-height--shim">
+  <div id="ember1149" class="ember-view"></div>
+  <div class="directory_header">
+    <h2 class="title ">
+      Smite
+      <span id="ember1158" class="ember-view">    <button class="button button--icon follow-button follow" data-ember-action="" data-ember-action-1159="1159">
+      <figure id="ember1160" class="icon ember-view"><svg height="16px" version="1.1" viewBox="0 0 16 16" width="16px" x="0px" y="0px" class="svg-heart">
+  <path clip-rule="evenodd" d="M8,14L1,7V4l2-2h3l2,2l2-2h3l2,2v3L8,14z" fill-rule="evenodd"></path>
+</svg>
+
+
+
+</figure>
+      Follow
+    </button>
+</span>
+<!----><!---->    </h2>
+<ul role="tablist" id="ember1163" class="js-nav tw-tabs ember-view"><li role="presentation" id="ember1168" class="tw-tabs__item ember-view">          <a href="/directory/game/Smite" id="ember1169" class="active ember-view">Live Channels</a>
+</li><li role="presentation" id="ember1170" class="tw-tabs__item ember-view">        <a href="/directory/game/Smite/videos" id="ember1171" class="ember-view">Videos</a>
+</li><!---->
+<!---->
+<li role="presentation" id="ember1262" class="tw-tabs__item ember-view">          <a data-tt_medium="show_detail_tab" data-tt_content="game_directory_page" href="/directory/game/Smite/details" id="ember1263" class="ember-view">Game Details</a>
+</li>
+<!----></ul>  </div>
+    <div id="ember1180" class="ember-view"><div class="filter-bar">
+  <div class="filter-bar__left">
+    <div class="filter-bar__item">
+      <div id="ember1187" class="ember-view"><div class="js-language-filter balloon-wrapper">
+  <a class="js-language-control button button--hollow button--dropmenu" data-ember-action="" data-ember-action-1188="1188">
+    Language
+    <span class="hidden">
+      <span class="pill pill--purple js-language-indicator"> 0</span>
+    </span>
+  </a>
+  <div class="balloon js-language-balloon balloon--down balloon--no-tail balloon--left balloon--dropmenu hide">
+    <div class="filter-bar__balloon-scroller scroll"><div class="tse-scrollbar" style="display: none;"><div class="drag-handle"></div></div>
+      <div class="tse-scroll-content" style="right: 0px; width: 0px; height: 250px;">
+        <div class="tse-content">
+          <ul class="balloon__list filter-bar__balloon-checklist js-language-options">
+              <li>
+                <label class="balloon__link "><input type="checkbox" data-language-code="en"> English</label>
+              </li>
+              <li>
+                <label class="balloon__link "><input type="checkbox" data-language-code="da"> Dansk</label>
+              </li>
+              <li>
+                <label class="balloon__link "><input type="checkbox" data-language-code="de"> Deutsch</label>
+              </li>
+              <li>
+                <label class="balloon__link "><input type="checkbox" data-language-code="es"> Español</label>
+              </li>
+              <li>
+                <label class="balloon__link "><input type="checkbox" data-language-code="fr"> Français</label>
+              </li>
+              <li>
+                <label class="balloon__link "><input type="checkbox" data-language-code="it"> Italiano</label>
+              </li>
+              <li>
+                <label class="balloon__link "><input type="checkbox" data-language-code="hu"> Magyar</label>
+              </li>
+              <li>
+                <label class="balloon__link "><input type="checkbox" data-language-code="nl"> Nederlands</label>
+              </li>
+              <li>
+                <label class="balloon__link "><input type="checkbox" data-language-code="no"> Norsk</label>
+              </li>
+              <li>
+                <label class="balloon__link "><input type="checkbox" data-language-code="pl"> Polski</label>
+              </li>
+              <li>
+                <label class="balloon__link "><input type="checkbox" data-language-code="pt"> Português</label>
+              </li>
+              <li>
+                <label class="balloon__link "><input type="checkbox" data-language-code="sk"> Slovenčina</label>
+              </li>
+              <li>
+                <label class="balloon__link "><input type="checkbox" data-language-code="fi"> Suomi</label>
+              </li>
+              <li>
+                <label class="balloon__link "><input type="checkbox" data-language-code="sv"> Svenska</label>
+              </li>
+              <li>
+                <label class="balloon__link "><input type="checkbox" data-language-code="vi"> Tiếng Việt</label>
+              </li>
+              <li>
+                <label class="balloon__link "><input type="checkbox" data-language-code="tr"> Türkçe</label>
+              </li>
+              <li>
+                <label class="balloon__link "><input type="checkbox" data-language-code="cs"> Čeština</label>
+              </li>
+              <li>
+                <label class="balloon__link "><input type="checkbox" data-language-code="el"> Ελληνικά</label>
+              </li>
+              <li>
+                <label class="balloon__link "><input type="checkbox" data-language-code="bg"> Български</label>
+              </li>
+              <li>
+                <label class="balloon__link "><input type="checkbox" data-language-code="ru"> Русский</label>
+              </li>
+              <li>
+                <label class="balloon__link "><input type="checkbox" data-language-code="ar"> العربية</label>
+              </li>
+              <li>
+                <label class="balloon__link "><input type="checkbox" data-language-code="th"> ภาษาไทย</label>
+              </li>
+              <li>
+                <label class="balloon__link "><input type="checkbox" data-language-code="zh"> 中文</label>
+              </li>
+              <li>
+                <label class="balloon__link "><input type="checkbox" data-language-code="ja"> 日本語</label>
+              </li>
+              <li>
+                <label class="balloon__link "><input type="checkbox" data-language-code="ko"> 한국어</label>
+              </li>
+              <li>
+                <label class="balloon__link "><input type="checkbox" data-language-code="asl"> American Sign Language</label>
+              </li>
+              <li>
+                <label class="balloon__link "><input type="checkbox" data-language-code="other"> Other</label>
+              </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div class="filter-bar__balloon-footer">
+      <a class="button button--text" data-ember-action="" data-ember-action-1216="1216">Clear all</a>
+    </div>
+  </div>
+</div>
+</div>
+    </div>
+  </div>
+</div>
+</div>
+
+  <!---->
+
+  <div id="ember1225" class="ember-view"><!---->
+<!---->
+<div id="ember1231" class="ember-view"><div class="flex flex-nowrap">
+  <div class="js-streams directory__channels flex-grow-1">
+    <div class="tower tower--300 tower--gutter-sm qa-tower">
+        <div id="ember1238" class="directory-ad ad_contain ember-view" style="-webkit-order: 0; display: none;"><div class="advertisement mg-b-2">
+  <div id="dfp-directory-rectangle" class="a300" data-google-query-id="CNnqhfzcqNcCFZeHfgod9AkHUA" style="display: none;"><div id="google_ads_iframe_/3576121/twitch/directory_1__container__" style="border: 0pt none;"><iframe id="google_ads_iframe_/3576121/twitch/directory_1" title="3rd party ad content" name="google_ads_iframe_/3576121/twitch/directory_1" width="300" height="250" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" srcdoc="" style="border: 0px; vertical-align: bottom;"></iframe></div></div>
+</div>
+</div>
+<!---->      <div class="tower_placeholder"></div><div class="tower_placeholder"></div><div class="tower_placeholder"></div><div class="tower_placeholder"></div><div class="tower_placeholder"></div><div class="tower_placeholder"></div><div class="tower_placeholder"></div><div class="tower_placeholder"></div><div class="tower_placeholder"></div><div class="tower_placeholder"></div>
+    </div>
+    <div style="visibility:hidden;height:400px;margin-top:-400px;pointer-events:none" id="ember1241" class="ember-view">
+</div>
+
+
+      <div id="ember1246" class="loading-more-spinner ember-view"><div class="spinner" aria-role="progressbar" style="position: relative; z-index: 2000000000; left: 101px; top: 50px;"><div style="position: absolute; top: -1px; opacity: 0.25; -webkit-animation: opacity-70-25-0-12 0.7142857142857143s linear infinite;"><div style="position: absolute; width: 5px; height: 2px; background-color: rgb(25, 23, 28); box-shadow: rgba(0, 0, 0, 0.0980392) 0px 0px 1px; -webkit-transform-origin: 0% 50%; -webkit-transform: rotate(0deg) translate(6px, 0px); border-top-left-radius: 1px; border-top-right-radius: 1px; border-bottom-right-radius: 1px; border-bottom-left-radius: 1px; background-position: initial initial; background-repeat: initial initial;"></div></div><div style="position: absolute; top: -1px; opacity: 0.25; -webkit-animation: opacity-70-25-1-12 0.7142857142857143s linear infinite;"><div style="position: absolute; width: 5px; height: 2px; background-color: rgb(25, 23, 28); box-shadow: rgba(0, 0, 0, 0.0980392) 0px 0px 1px; -webkit-transform-origin: 0% 50%; -webkit-transform: rotate(30deg) translate(6px, 0px); border-top-left-radius: 1px; border-top-right-radius: 1px; border-bottom-right-radius: 1px; border-bottom-left-radius: 1px; background-position: initial initial; background-repeat: initial initial;"></div></div><div style="position: absolute; top: -1px; opacity: 0.25; -webkit-animation: opacity-70-25-2-12 0.7142857142857143s linear infinite;"><div style="position: absolute; width: 5px; height: 2px; background-color: rgb(25, 23, 28); box-shadow: rgba(0, 0, 0, 0.0980392) 0px 0px 1px; -webkit-transform-origin: 0% 50%; -webkit-transform: rotate(60deg) translate(6px, 0px); border-top-left-radius: 1px; border-top-right-radius: 1px; border-bottom-right-radius: 1px; border-bottom-left-radius: 1px; background-position: initial initial; background-repeat: initial initial;"></div></div><div style="position: absolute; top: -1px; opacity: 0.25; -webkit-animation: opacity-70-25-3-12 0.7142857142857143s linear infinite;"><div style="position: absolute; width: 5px; height: 2px; background-color: rgb(25, 23, 28); box-shadow: rgba(0, 0, 0, 0.0980392) 0px 0px 1px; -webkit-transform-origin: 0% 50%; -webkit-transform: rotate(90deg) translate(6px, 0px); border-top-left-radius: 1px; border-top-right-radius: 1px; border-bottom-right-radius: 1px; border-bottom-left-radius: 1px; background-position: initial initial; background-repeat: initial initial;"></div></div><div style="position: absolute; top: -1px; opacity: 0.25; -webkit-animation: opacity-70-25-4-12 0.7142857142857143s linear infinite;"><div style="position: absolute; width: 5px; height: 2px; background-color: rgb(25, 23, 28); box-shadow: rgba(0, 0, 0, 0.0980392) 0px 0px 1px; -webkit-transform-origin: 0% 50%; -webkit-transform: rotate(120deg) translate(6px, 0px); border-top-left-radius: 1px; border-top-right-radius: 1px; border-bottom-right-radius: 1px; border-bottom-left-radius: 1px; background-position: initial initial; background-repeat: initial initial;"></div></div><div style="position: absolute; top: -1px; opacity: 0.25; -webkit-animation: opacity-70-25-5-12 0.7142857142857143s linear infinite;"><div style="position: absolute; width: 5px; height: 2px; background-color: rgb(25, 23, 28); box-shadow: rgba(0, 0, 0, 0.0980392) 0px 0px 1px; -webkit-transform-origin: 0% 50%; -webkit-transform: rotate(150deg) translate(6px, 0px); border-top-left-radius: 1px; border-top-right-radius: 1px; border-bottom-right-radius: 1px; border-bottom-left-radius: 1px; background-position: initial initial; background-repeat: initial initial;"></div></div><div style="position: absolute; top: -1px; opacity: 0.25; -webkit-animation: opacity-70-25-6-12 0.7142857142857143s linear infinite;"><div style="position: absolute; width: 5px; height: 2px; background-color: rgb(25, 23, 28); box-shadow: rgba(0, 0, 0, 0.0980392) 0px 0px 1px; -webkit-transform-origin: 0% 50%; -webkit-transform: rotate(180deg) translate(6px, 0px); border-top-left-radius: 1px; border-top-right-radius: 1px; border-bottom-right-radius: 1px; border-bottom-left-radius: 1px; background-position: initial initial; background-repeat: initial initial;"></div></div><div style="position: absolute; top: -1px; opacity: 0.25; -webkit-animation: opacity-70-25-7-12 0.7142857142857143s linear infinite;"><div style="position: absolute; width: 5px; height: 2px; background-color: rgb(25, 23, 28); box-shadow: rgba(0, 0, 0, 0.0980392) 0px 0px 1px; -webkit-transform-origin: 0% 50%; -webkit-transform: rotate(210deg) translate(6px, 0px); border-top-left-radius: 1px; border-top-right-radius: 1px; border-bottom-right-radius: 1px; border-bottom-left-radius: 1px; background-position: initial initial; background-repeat: initial initial;"></div></div><div style="position: absolute; top: -1px; opacity: 0.25; -webkit-animation: opacity-70-25-8-12 0.7142857142857143s linear infinite;"><div style="position: absolute; width: 5px; height: 2px; background-color: rgb(25, 23, 28); box-shadow: rgba(0, 0, 0, 0.0980392) 0px 0px 1px; -webkit-transform-origin: 0% 50%; -webkit-transform: rotate(240deg) translate(6px, 0px); border-top-left-radius: 1px; border-top-right-radius: 1px; border-bottom-right-radius: 1px; border-bottom-left-radius: 1px; background-position: initial initial; background-repeat: initial initial;"></div></div><div style="position: absolute; top: -1px; opacity: 0.25; -webkit-animation: opacity-70-25-9-12 0.7142857142857143s linear infinite;"><div style="position: absolute; width: 5px; height: 2px; background-color: rgb(25, 23, 28); box-shadow: rgba(0, 0, 0, 0.0980392) 0px 0px 1px; -webkit-transform-origin: 0% 50%; -webkit-transform: rotate(270deg) translate(6px, 0px); border-top-left-radius: 1px; border-top-right-radius: 1px; border-bottom-right-radius: 1px; border-bottom-left-radius: 1px; background-position: initial initial; background-repeat: initial initial;"></div></div><div style="position: absolute; top: -1px; opacity: 0.25; -webkit-animation: opacity-70-25-10-12 0.7142857142857143s linear infinite;"><div style="position: absolute; width: 5px; height: 2px; background-color: rgb(25, 23, 28); box-shadow: rgba(0, 0, 0, 0.0980392) 0px 0px 1px; -webkit-transform-origin: 0% 50%; -webkit-transform: rotate(300deg) translate(6px, 0px); border-top-left-radius: 1px; border-top-right-radius: 1px; border-bottom-right-radius: 1px; border-bottom-left-radius: 1px; background-position: initial initial; background-repeat: initial initial;"></div></div><div style="position: absolute; top: -1px; opacity: 0.25; -webkit-animation: opacity-70-25-11-12 0.7142857142857143s linear infinite;"><div style="position: absolute; width: 5px; height: 2px; background-color: rgb(25, 23, 28); box-shadow: rgba(0, 0, 0, 0.0980392) 0px 0px 1px; -webkit-transform-origin: 0% 50%; -webkit-transform: rotate(330deg) translate(6px, 0px); border-top-left-radius: 1px; border-top-right-radius: 1px; border-bottom-right-radius: 1px; border-bottom-left-radius: 1px; background-position: initial initial; background-repeat: initial initial;"></div></div></div><!----></div>
+  </div>
+<!----></div>
+</div>
+</div>
+
+  <div id="ember1249" class="ember-view"><!----></div>
+</div>
+
+
+              </div>
+<!---->            </div>
+
+<!---->          </div>
+
+          <div id="toast-location" class="toast-location ">
+          </div>
+
+          <div id="right-column">
+            <!---->
+          </div>
+
+            <div id="ember847" class="theme--dark ember-view"><div class="social-column js-social-column flex flex--column">
+  <div class="flex__item scroll sc-list-container js-social-column-list-container"><div class="tse-scrollbar"><div class="drag-handle" style="top: 2px; height: 0px;"></div></div>
+    <div class="tse-scroll-content js-social-column-list" style="right: 0px; width: 50px; height: 0px;">
+      <div class="tse-content sc-list flex flex--column ">
+            <div id="ember854" class="ember-view"><div class="sc-section sc-followed-channels js-followed-channels">
+  <h5 class="sc-header sc-collapse-hide mg-t-1 pd-y-1 mg-x-1">Followed Channels</h5>
+<div id="ember867" class="ember-view">      <div class="sc-collapsed-header pd-x-1" original-title="Recommended Channels">
+        <figure id="ember868" class="icon ember-view"><svg height="18px" version="1.1" viewBox="0 0 18 18" width="18px" x="0px" y="0px" class="svg-nav_channels">
+  <path clip-rule="evenodd" d="M15,14l-4-4v4H1V4h10v4l4-4h2v10H15z" fill-rule="evenodd"></path>
+</svg>
+
+
+
+</figure>
+      </div>
+</div>    <div id="ember871" class="ember-view"></div>
+    <div class="sc-empty-state sc-collapse-hide">
+      <img src="https://s.jtvnw.net/jtv_user_pictures/hosted_images/followed-channels__empty.png" srcset="https://s.jtvnw.net/jtv_user_pictures/hosted_images/followed-channels__empty.png@2x" class="mg-t-3 mg-b-2">
+      <p class="sc-empty-state__text mg-b-1 mg-x-1">
+        Follow channels and easily access your favorites here.
+        Here are a few you might like!
+      </p>
+    </div>
+    <div id="ember874" class="js-recommended-channels recommended-channels is-drawer-closed--hide ember-view"><div class=" sc-channels__recommended">
+<!---->      <div id="ember991" class="ember-view"><div id="ember992" class="js-recommended-channel ember-view"><div data-tooltip-text="HiRezTV — Smite" id="ember997" class="sc-item--actionable  js-sc-card sc-item pd-y-05 pd-x-1 relative ember-view" original-title=""><a href="/hireztv" data-tt_medium="twitch_socialcolumn" data-tt_content="recommended_channels" data-tt_content_index="1" class="sc-item__layout flex align-items-center flex-nowrap" data-ember-action="" data-ember-action-998="998">
+      <div id="ember999" class="ember-view"><figure class="flex-shrink-0">
+  <img src="https://static-cdn.jtvnw.net/jtv_user_pictures/hireztv-profile_image-65062592ee8e9541-70x70.png" id="ember1004" class="sc-item__avatar ember-view">
+</figure>
+</div>
+
+<div id="ember1009" class="flex flex-column flex-grow-1 mg-l-1 sc-collapse-hide ember-view"><div id="ember1010" class="ember-view"><div class="sc-item__title">
+  <span class="ellipsis js-display-name">        HiRezTV
+</span>
+</div>
+</div><div class="sc-item__metadata flex flex-nowrap">
+          <span title="Smite" class="sc-item__metadata--1 ellipsis flex-grow-1">
+          Smite
+        </span>
+
+</div>
+<!---->
+</div>
+<div class="sc-item__hover-action pd-r-1 sc-collapse-hide--flex">
+  <div class="sc-item__hover-gradient">
+  </div>
+  <div class="sc-item__hover-buttons flex">
+          <div id="ember1025" class="ember-view"><a title="Follow" class="button button--small sc-button--hover sc-actions sc-collapse-hide ">
+  <span>Follow</span>
+</a>
+</div>
+
+  </div>
+</div>
+
+</a>
+</div></div></div>
+      <div id="ember1031" class="ember-view"><div id="ember1032" class="js-recommended-channel ember-view"><div data-tooltip-text="Brawlhalla — Brawlhalla" id="ember1033" class="sc-item--actionable  js-sc-card sc-item pd-y-05 pd-x-1 relative ember-view" original-title=""><a href="/brawlhalla" data-tt_medium="twitch_socialcolumn" data-tt_content="recommended_channels" data-tt_content_index="2" class="sc-item__layout flex align-items-center flex-nowrap" data-ember-action="" data-ember-action-1034="1034">
+      <div id="ember1035" class="ember-view"><figure class="flex-shrink-0">
+  <img src="https://static-cdn.jtvnw.net/jtv_user_pictures/brawlhalla-profile_image-cf542356225ef115-70x70.png" id="ember1036" class="sc-item__avatar ember-view">
+</figure>
+</div>
+
+<div id="ember1037" class="flex flex-column flex-grow-1 mg-l-1 sc-collapse-hide ember-view"><div id="ember1038" class="ember-view"><div class="sc-item__title">
+  <span class="ellipsis js-display-name">        Brawlhalla
+</span>
+</div>
+</div><div class="sc-item__metadata flex flex-nowrap">
+          <span title="Brawlhalla" class="sc-item__metadata--1 ellipsis flex-grow-1">
+          Brawlhalla
+        </span>
+
+</div>
+<!---->
+</div>
+<div class="sc-item__hover-action pd-r-1 sc-collapse-hide--flex">
+  <div class="sc-item__hover-gradient">
+  </div>
+  <div class="sc-item__hover-buttons flex">
+          <div id="ember1041" class="ember-view"><a title="Follow" class="button button--small sc-button--hover sc-actions sc-collapse-hide ">
+  <span>Follow</span>
+</a>
+</div>
+
+  </div>
+</div>
+
+</a>
+</div></div></div>
+      <div id="ember1043" class="ember-view"><div id="ember1044" class="js-recommended-channel ember-view"><div data-tooltip-text="BeyondTheSummit — Super Smash Bros. Melee" id="ember1045" class="sc-item--actionable  js-sc-card sc-item pd-y-05 pd-x-1 relative ember-view" original-title=""><a href="/beyondthesummit" data-tt_medium="twitch_socialcolumn" data-tt_content="recommended_channels" data-tt_content_index="3" class="sc-item__layout flex align-items-center flex-nowrap" data-ember-action="" data-ember-action-1046="1046">
+      <div id="ember1047" class="ember-view"><figure class="flex-shrink-0">
+  <img src="https://static-cdn.jtvnw.net/jtv_user_pictures/beyondthesummit-profile_image-d3d31e2a3b0f1e0a-70x70.jpeg" id="ember1048" class="sc-item__avatar ember-view">
+</figure>
+</div>
+
+<div id="ember1049" class="flex flex-column flex-grow-1 mg-l-1 sc-collapse-hide ember-view"><div id="ember1050" class="ember-view"><div class="sc-item__title">
+  <span class="ellipsis js-display-name">        BeyondTheSummit
+</span>
+</div>
+</div><div class="sc-item__metadata flex flex-nowrap">
+          <span title="Super Smash Bros. Melee" class="sc-item__metadata--1 ellipsis flex-grow-1">
+          Super Smash Bros. Melee
+        </span>
+
+</div>
+<!---->
+</div>
+<div class="sc-item__hover-action pd-r-1 sc-collapse-hide--flex">
+  <div class="sc-item__hover-gradient">
+  </div>
+  <div class="sc-item__hover-buttons flex">
+          <div id="ember1053" class="ember-view"><a title="Follow" class="button button--small sc-button--hover sc-actions sc-collapse-hide ">
+  <span>Follow</span>
+</a>
+</div>
+
+  </div>
+</div>
+
+</a>
+</div></div></div>
+<!----></div>
+</div>
+</div>
+</div>
+
+            <div id="ember905" class="js-friend-list ember-view"><div class="sc-section sc-online-friends js-friend-filter">
+  <h5 class="sc-header sc-collapse-hide mg-t-1 pd-y-1 mg-x-1">Online Friends</h5>
+    <div class="sc-empty-state sc-collapse-hide">
+      <img src="https://s.jtvnw.net/jtv_user_pictures/hosted_images/friends__empty.png" srcset="https://s.jtvnw.net/jtv_user_pictures/hosted_images/friends__empty.png@2x" class="mg-t-3 mg-b-2">
+      <p class="sc-empty-state__text mg-b-1 mg-x-1">
+        Twitch is better together. Add some Friends to see who's online and chat!
+      </p>
+    </div>
+    <div id="ember910" class="ember-view"><div class=" sc-suggestions sc-collapse-hide">
+  </div>
+</div>
+    <div id="ember932" class="ember-view"></div>
+</div>
+</div>
+
+<!---->
+<!---->      </div>
+    </div>
+  </div>
+
+<!----></div>
+</div>
+        </div>
+
+        <div style="display: none;" id="ember935" class="js-username-hover-tip pos-absolute profile-card--balloon ember-view"><!----></div>
+      </div>
+    <!---->
+    <!---->
+
+</div><iframe id="google_osd_static_frame_2512177727185" name="google_osd_static_frame" style="display: none; width: 0px; height: 0px;"></iframe></body><iframe id="kx-proxy-JYk8LCsC" src="https://cdn.krxd.net/partnerjs/xdi/proxy.3d2100fd7107262ecb55ce6847f01fa5.html#!kxcid=JYk8LCsC&amp;kxt=https%3A%2F%2Fwww.twitch.tv&amp;kxcl=cdn&amp;kxp=" style="display: none; visibility: hidden; height: 0; width: 0;"></iframe></html>

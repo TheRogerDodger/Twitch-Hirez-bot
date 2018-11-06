@@ -1,0 +1,2 @@
+SUCCESS: The process "iexplore.exe" with PID 7088 has been terminated.
+SUCCESS: The process "iexplore.exe" with PID 15856 has been terminated.
